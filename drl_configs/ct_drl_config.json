@@ -1,0 +1,24 @@
+{
+    "Head": {
+        "protocol_match": [
+            "head",
+            "galva",
+            "skull",
+            "Brain\n6-10y"
+        ],
+        "adult": {
+            "DLP": 1000.0,
+            "CTDIvol": 60.0
+        },
+        "child": {
+            "0-1": {
+                "DLP": 300.0,
+                "CTDIvol": 20.0
+            },
+            "5-10": {
+                "DLP": 300.0,
+                "CTDIvol": 20.0
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "Test": {
+        "protocol_match": [
+            "test"
+        ],
+        "adult": {
+            "DAP": 10.0,
+            "ESD": 1.0
+        },
+        "child": {}
+    },
+    "CHEST": {
+        "protocol_match": [
+            "Chest"
+        ],
+        "adult": {
+            "DAP": 10.0
+        },
+        "child": {}
+    },
+    "SINUSES": {
+        "protocol_match": [
+            "Sinuses"
+        ],
+        "adult": {
+            "DAP": 10.0
+        },
+        "child": {}
+    },
+    "L SPINE": {
+        "protocol_match": [
+            "Spine"
+        ],
+        "adult": {
+            "DAP": 10.0,
+            "ESD": 1.0
+        },
+        "child": {}
+    },
+    "L SPINE AP": {
+        "protocol_match": [
+            "Spine"
+        ],
+        "adult": {
+            "DAP": 10.0,
+            "ESD": 1.0
+        },
+        "child": {}
+    },
+    "L SPINE LL": {
+        "protocol_match": [
+            "Spine"
+        ],
+        "adult": {
+            "DAP": 10.0,
+            "ESD": 1.0
+        },
+        "child": {}
+    },
+    "PELVIS": {
+        "protocol_match": [
+            "Pelvis"
+        ],
+        "adult": {
+            "DAP": 10.0,
+            "ESD": 1.0
+        },
+        "child": {}
+    },
+    "HIP": {
+        "protocol_match": [
+            "Hip"
+        ],
+        "adult": {
+            "DAP": 10.0,
+            "ESD": 1.0
+        },
+        "child": {}
+    }
+}

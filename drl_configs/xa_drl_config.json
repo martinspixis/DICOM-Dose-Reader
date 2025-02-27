@@ -1,0 +1,12 @@
+{
+    "Test": {
+        "protocol_match": [
+            "test"
+        ],
+        "adult": {
+            "DAP": 10.0,
+            "ESD": 1.0
+        },
+        "child": {}
+    }
+}
